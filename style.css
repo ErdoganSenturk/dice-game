@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    text-align: center;
+    margin-top: 5rem;
+}
+.btn{
+    margin-top: 1rem;
+    padding: 0.5rem 2rem;
+    font-size: 2rem;
+    background-color: rgb(104, 75, 131);
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+.text{
+    color: red;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+.dice{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
